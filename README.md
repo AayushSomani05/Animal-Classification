@@ -15,7 +15,7 @@ Here's the Demo
 ```
 git clone https://github.com/AayushSomani05/Animal-Classification
 ```
-2. Download the model form [here](https://drive.google.com/file/d/1x1LV9NXnj5dYBjDDKA4S_QY0ZDvl4AMc/view?usp=sharing) and move it in the repostiory.
+2. Download the model form [here](https://drive.google.com/file/d/1ninnDmiEsLg1oK_vZ9OR7j8kSwto3Zoj/view?usp=sharing) and move it in the repostiory.
 
 3. Install pre-requisites:
 ```
