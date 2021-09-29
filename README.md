@@ -1,4 +1,4 @@
-# identify-the-animal
+# Animal-Classification
 
 Classification of Animals using deep learning.Over 30 different animal species are covered.
 
@@ -13,7 +13,7 @@ Here's the Demo
 
 1. Get your copy of repository
 ```
-git clone https://github.com/naineshhulke/identify-the-animal
+git clone https://github.com/AayushSomani05/Animal-Classification
 ```
 2. Download the model form [here](https://drive.google.com/file/d/1x1LV9NXnj5dYBjDDKA4S_QY0ZDvl4AMc/view?usp=sharing) and move it in the repostiory.
 
@@ -25,6 +25,4 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-
-Related Competition Link : [*HackerEarth- Identify the Animal  Challenge*](https://www.hackerearth.com/problem/machine-learning/predict-the-energy-used-612632a9-9de79188/)
 
